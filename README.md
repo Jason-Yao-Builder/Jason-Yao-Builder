@@ -20,5 +20,20 @@
 - 学习最快的方式是造东西
 
 ---
-*Building in public. Learning by shipping. Trying to see the future clearly, and make it a little more beautiful.*
 
+## Claude Code Skills
+
+我用 Claude Code 构建的可复用 skill，按使用场景分类：
+
+### 🎮 Games
+| Skill | 说明 |
+|-------|------|
+| [History Strategy Game](games/history-strategy-game/SKILL.md) | 沉浸式历史策略推演游戏，训练"一鱼多吃"式决策思维 |
+
+### 🔬 Research
+| Skill | 说明 |
+|-------|------|
+| [Feynman Research](research/feynman-research/SKILL.md) | 拆→研→融→讲四步流程，用费曼式建造者视角做深度主题研究 |
+
+---
+*Building in public. Learning by shipping. Trying to see the future clearly, and make it a little more beautiful.*
